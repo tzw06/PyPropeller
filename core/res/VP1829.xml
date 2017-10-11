@@ -1,0 +1,20 @@
+<blade title='VP1829'>
+	<expanded-area-coef comment='(Ae/A0)/(C/D)'>1.543791817</expanded-area-coef>
+	<profile>
+		<section radius='0.1650' chord='0.257507' pitch='0.802374' skew='-9.7910'  rake='15.2176'>VP1829-01650</section>
+		<section radius='0.1900' chord='0.292876' pitch='0.847492' skew='-7.6294'  rake='9.9784'>VP1829-01900</section>
+		<section radius='0.2250' chord='0.342393' pitch='0.892209' skew='-5.1676'  rake='4.5509'>VP1829-02250</section>
+		<section radius='0.3000' chord='0.448501' pitch='0.930662' skew='-1.1471'  rake='-2.4573'>VP1829-03000</section>
+		<section radius='0.4000' chord='0.604954' pitch='0.971468' skew='3.5159'   rake='-7.4832'>VP1829-04000</section>
+		<section radius='0.5000' chord='0.761408' pitch='1.004262' skew='6.2867'   rake='-9.4421'>VP1829-05000</section>
+		<section radius='0.6000' chord='0.917862' pitch='1.016118' skew='6.4902'   rake='-9.3521'>VP1829-06000</section>
+		<section radius='0.7000' chord='1.000000' pitch='1.000000' skew='3.8336'   rake='-7.8967'>VP1829-07000</section>
+		<section radius='0.8000' chord='1.003911' pitch='0.954765' skew='-1.3617'  rake='-5.8393'>VP1829-08000</section>
+		<section radius='0.8500' chord='0.967405' pitch='0.922483' skew='-4.7891'  rake='-4.7768'>VP1829-08500</section>
+		<section radius='0.9000' chord='0.860495' pitch='0.885163' skew='-8.8179'  rake='-3.7319'>VP1829-09000</section>
+		<section radius='0.9500' chord='0.645372' pitch='0.844320' skew='-13.4872' rake='-2.7279'>VP1829-09500</section>
+		<section radius='0.9750' chord='0.508475' pitch='0.823151' skew='-16.0692' rake='-2.2475'>VP1829-09750</section>
+		<section radius='0.9875' chord='0.424136' pitch='0.812495' skew='-17.4219' rake='-2.0137'>VP1829-09875</section>
+		<section radius='1.0000' chord='0.325945' pitch='0.801837' skew='-18.8157' rake='-1.7844'>VP1829-10000</section>
+	</profile>
+</blade>

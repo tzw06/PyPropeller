@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/play.png</file>
+        <file>images/property.png</file>
+        <file>images/methods.png</file>
+        <file>images/console.png</file>
+        <file>images/ugnx.png</file>
+    </qresource>
+</RCC>

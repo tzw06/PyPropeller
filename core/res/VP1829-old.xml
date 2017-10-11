@@ -1,0 +1,22 @@
+<blade title='default_blade'>
+	<expanded-area-coef comment='(Ae/A0)/(C/D)'>1.477139741</expanded-area-coef>
+	<profile>
+		<section radius='0.250' chord='0.369000' pitch='0.669000' skew='-6.000000' rake='1.700000'>blade-af1</section>
+		<section radius='0.284' chord='0.428674' pitch='0.682625' skew='-2.797190' rake='-0.954391'>blade-af1</section>
+		<section radius='0.350' chord='0.530815' pitch='0.712977' skew='2.053363' rake='-5.335523'>blade-af2</section>
+		<section radius='0.400' chord='0.608528' pitch='0.736505' skew='4.455843' rake='-7.337908'>blade-af3</section>
+		<section radius='0.450' chord='0.685251' pitch='0.774132' skew='6.261778' rake='-8.510230'>blade-af4</section>
+		<section radius='0.500' chord='0.763727' pitch='0.811759' skew='7.234542' rake='-9.086677'>blade-af5</section>
+		<section radius='0.550' chord='0.841892' pitch='0.853936' skew='7.373941' rake='-9.230000'>blade-af6</section>
+		<section radius='0.600' chord='0.915598' pitch='0.896387' skew='7.081730' rake='-8.968860'>blade-af7</section>
+		<section radius='0.650' chord='0.968785' pitch='0.944814' skew='5.924383' rake='-8.453304'>blade-af7</section>
+		<section radius='0.700' chord='1.000000' pitch='1.000000' skew='4.084323' rake='-7.681141'>blade-af7</section>
+		<section radius='0.750' chord='1.012814' pitch='1.055186' skew='1.667000' rake='-6.747450'>blade-af7</section>
+		<section radius='0.800' chord='1.001086' pitch='1.110373' skew='-1.520824' rake='-5.696756'>blade-af7</section>
+		<section radius='0.850' chord='0.964252' pitch='1.168527' skew='-4.943437' rake='-4.612894'>blade-af7</section>
+		<section radius='0.900' chord='0.852467' pitch='1.228188' skew='-8.938238' rake='-3.576073'>blade-af7</section>
+		<section radius='0.940' chord='0.688232' pitch='1.282470' skew='-12.643273' rake='-2.756224'>blade-af7</section>
+		<section radius='0.970' chord='0.529586' pitch='1.334980' skew='-15.443832' rake='-2.189010'>blade-af7</section>
+		<section radius='1.000' chord='0.342939' pitch='1.417759' skew='-18.180059' rake='-1.625996'>blade-af7</section>
+	</profile>
+</blade>
