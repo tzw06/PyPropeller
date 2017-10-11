@@ -23,7 +23,7 @@ MainWindow::MainWindow(QWidget *parent)
     QString projectPath = "/Users/tzw/SDK/PyPropeller";
     option->pythonExecutable = "/usr/bin/python";
 #else
-    QString projectPath = QCoreApplication::applicationDirPath() + "/../../..";
+    QString projectPath = QCoreApplication::applicationDirPath() + "/../..";
     option->pythonExecutable = "E:\\SDK\\Anaconda2\\python.exe";
 #endif
 

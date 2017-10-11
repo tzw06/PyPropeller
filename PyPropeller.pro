@@ -34,7 +34,6 @@ else {
         RCC_DIR = release
 }
 
-SRC = ../gui/PyPropeller
 
 win32 {
     INCLUDEPATH += "E:\SDK\OpenSceneGraph\include"
@@ -54,27 +53,27 @@ mac {
 }
 
 SOURCES += \
-        $${SRC}\inspector.cpp \
-        $${SRC}\main.cpp \
-        $${SRC}\mainwindow.cpp \
-        $${SRC}\methodview.cpp \
-        $${SRC}\adapter.cpp \
-        $${SRC}\modelview.cpp \
-        $${SRC}\manipulator.cpp \
-        $${SRC}\messenger.cpp \
-        $${SRC}\console.cpp
+        inspector.cpp \
+        main.cpp \
+        mainwindow.cpp \
+        methodview.cpp \
+        adapter.cpp \
+        modelview.cpp \
+        manipulator.cpp \
+        messenger.cpp \
+        console.cpp
 
 HEADERS += \
-        $${SRC}\inspector.h \
-        $${SRC}\mainwindow.h \
-        $${SRC}\methodview.h \
-        $${SRC}\adapter.h \
-        $${SRC}\modelview.h \
-        $${SRC}\manipulator.h \
-        $${SRC}\messenger.h \
-        $${SRC}\console.h
+        inspector.h \
+        mainwindow.h \
+        methodview.h \
+        adapter.h \
+        modelview.h \
+        manipulator.h \
+        messenger.h \
+        console.h
 
-RESOURCES += $${SRC}\mainframe.qrc
+RESOURCES += mainframe.qrc
 
 OTHER_FILES+= propeller.rc
 RC_FILE = propeller.rc
