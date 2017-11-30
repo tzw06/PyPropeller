@@ -49,7 +49,7 @@ mac {
     LIBS += -framework osgGA
     LIBS += -framework osgSim
     LIBS += -framework osgViewer
-    LIBS += -framework osgQt
+#    LIBS += -framework osgQt
 }
 
 SOURCES += \

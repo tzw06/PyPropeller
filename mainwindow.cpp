@@ -34,7 +34,7 @@ MainWindow::MainWindow(QWidget *parent)
     createActions();
     createToolbar();
     
-    setUnifiedTitleAndToolBarOnMac(true);
+//    setUnifiedTitleAndToolBarOnMac(true);
     
     readSettings();
     
@@ -334,21 +334,21 @@ void MainWindow::createToolbar()
 
     bar->addAction(openAct);
     bar->addAction(saveAct);
-    bar->addWidget(spacer);
+//    bar->addWidget(spacer);
     bar->addAction(ugnxAct);
-    bar->addWidget(spacer1);
+//    bar->addWidget(spacer1);
     bar->addAction(runAct);
     bar->addWidget(indicator);
-    bar->addWidget(spacer2);
+//    bar->addWidget(spacer2);
     bar->addAction(consoleAct);
-    bar->addWidget(spacer3);
+//    bar->addWidget(spacer3);
     bar->addAction(methodAct);
     bar->addAction(inspectorAct);
 }
 
 void MainWindow::readSettings()
 {
-    QSettings settings("SIEMENS", "PyPropeller");
+    QSettings settings("SIEMENS", "PyPropellerGUI");
     
     QDir::setCurrent(settings.value("current-path", "").toString());
     
